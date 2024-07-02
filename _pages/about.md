@@ -28,10 +28,13 @@ My research interests include computer vision in self-driving, SLAM and robotics
 - *2023.02*: &nbsp;🎉🎉 One paper on map sparsification is accepted in CVPR 2023!
   
 # 📝 Publications 
+For the full lists, please refer to my [Google Scholar](https://scholar.google.com/citations?user=GUbdeFsAAAAJ) page
+
+*Equal contribution
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="200"></div>
+    <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
