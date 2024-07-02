@@ -29,21 +29,15 @@ My research interests include computer vision in self-driving, SLAM and robotics
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 # 📖 Educations
-- *2021 - present*, Ph.D. in Mechanical and Automation Engineering. The Chinese University of Hong Kong
+- *2021 - present*, Ph.D. in Mechanical and Automation Engineering, **The Chinese University of Hong Kong**
   - T-Stone Robotics Institue, advised by Prof.[Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
   - Fields: 3D computer vision, self-driving  
-- *2017 - 2020*, M.Phil. in Mechanical Engineering, Beihang University
+- *2017 - 2020*, M.Phil. in Mechanical Engineering, **Beihang University**
   - Robotics Institute, advised by Prof.[Wei Wang](http://www.me.buaa.edu.cn/info/1072/1897.htm)
   - Fields: SLAM, mobile robotics
-- *2013 - 2017*, B.S. in Mechanical Engineering, Beihang University
+- *2013 - 2017*, B.S. in Mechanical Engineering, **Beihang University**
 
 # 💻 Internships
 - *2020 - 2021*, Westlake University
@@ -53,15 +47,15 @@ My research interests include computer vision in self-driving, SLAM and robotics
   - Intern in SLAM, The Group of Visual Computing.
   
 # 🎖 Honors and Awards
-- *2021-2025* CUHK Vice-Chancellor's PhD Scholarship
-- *2021-2025* CUHK Postgraduate Scholarship
-- *2020* Outstanding Graduate of Beihang University
-- *2019* Third Prize in the 5th China ``Internet +"  Innovation and Entrepreneurship Competition (Beijing)
-- *2017* First Prize in``Challenge Cup" Capital College Student Curricular Academic Science and Technology Works Competition
-- *2017* Third Prize in the 16th China University Robot Competition (Robocon)
-- *2017* Beijing Outstanding Graduate
-- *2015* National Scholarship
-- *2014* National Scholarship
+- *2021-2025*, CUHK Vice-Chancellor's PhD Scholarship
+- *2021-2025*, CUHK Postgraduate Scholarship
+- *2020*, Outstanding Graduate of Beihang University
+- *2019*, Third Prize in the 5th China ``Internet +"  Innovation and Entrepreneurship Competition (Beijing)
+- *2017*, First Prize in``Challenge Cup" Capital College Student Curricular Academic Science and Technology Works Competition
+- *2017*, Third Prize in the 16th China University Robot Competition (Robocon)
+- *2017*, Beijing Outstanding Graduate
+- *2015*, National Scholarship
+- *2014*, National Scholarship
 
 
 
