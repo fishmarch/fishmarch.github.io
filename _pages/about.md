@@ -28,7 +28,7 @@ My research interests include computer vision in self-driving, SLAM and robotics
 - *2023.02*: &nbsp;🎉🎉 One paper on map sparsification is accepted in CVPR 2023!
   
 # 📝 Publications 
-For the full lists, please refer to my [Google Scholar](https://scholar.google.com/citations?user=GUbdeFsAAAAJ) page
+For the full lists, please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GUbdeFsAAAAJ&view_op=list_works&sortby=pubdate) page
 
 *Equal contribution
 
@@ -96,6 +96,22 @@ IEEE Robotics and Automation Letters (RA-L), presented in ICRA 2022
 [[paper]](https://ieeexplore.ieee.org/document/9691791)
 </div></div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">IROS 2021</div><img src='../images/iros21.png' alt="sym" width="200px"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Stereo Plane SLAM Based on Intersecting Lines
+    
+**Xiaoyu Zhang**, Wei Wang, Xianyu Qi, and Ziwei Liao
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021
+
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9635961)
+[[code]](https://github.com/fishmarch/Stereo-Plane-SLAM)
+</div></div>
+
 # 📖 Educations
 - *2021 - present*, Ph.D. in Mechanical and Automation Engineering, **The Chinese University of Hong Kong**
   - T-Stone Robotics Institue, advised by Prof.[Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
@@ -117,7 +133,7 @@ IEEE Robotics and Automation Letters (RA-L), presented in ICRA 2022
 - *2021-2025*, CUHK Postgraduate Scholarship
 - *2020*, Outstanding Graduate of Beihang University
 - *2019*, Third Prize in the 5th China ``Internet +"  Innovation and Entrepreneurship Competition (Beijing)
-- *2017*, First Prize in``Challenge Cup" Capital College Student Curricular Academic Science and Technology Works Competition
+- *2017*, First Prize in ``Challenge Cup" Capital College Student Curricular Academic Science and Technology Works Competition
 - *2017*, Third Prize in the 16th China University Robot Competition (Robocon)
 - *2017*, Beijing Outstanding Graduate
 - *2015*, National Scholarship
