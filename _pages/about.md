@@ -32,6 +32,55 @@ For the full lists, please refer to my [Google Scholar](https://scholar.google.c
 
 *Equal contribution
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ECCV 2024</div><img src='../images/eccv22_1' alt="sym" width="200px"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Enhancing Vectorized Map Perception with Historical Rasterized Map
+    
+**Xiaoyu Zhang<sup>\*</sup>**, Guangwei Liu<sup>*</sup>, Zihao Liu, Ningyi Xu, Yun-hui Liu, and Ji Zhao
+
+The European Conference on Computer Vision (ECCV) 2024
+
+[[paper]]()
+[[code]]()
+</div></div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ECCV 2024</div><img src='../images/eccv22_2' alt="sym" width="200px"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction
+    
+Zihao Liu<sup>*</sup>, **Xiaoyu Zhang<sup>\*</sup>**, Guangwei Liu<sup>*</sup>, Ji Zhao, and Ningyi Xu
+
+The European Conference on Computer Vision (ECCV) 2024
+
+[[paper]](https://arxiv.org/abs/2402.17430)
+[[code]](https://github.com/HXMap/MapQR)
+</div></div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2023</div><img src='../images/cvpr23' alt="sym" width="200px"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Efficient Map Sparsification Based on 2D and 3D Discretized Grids
+    
+**Xiaoyu Zhang**, and Yun-hui Liu
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
+
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Efficient_Map_Sparsification_Based_on_2D_and_3D_Discretized_Grids_CVPR_2023_paper.html)
+[[code]](https://github.com/fishmarch/SLAM_Map_Compression)
+</div></div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="200px"></div>
@@ -45,8 +94,7 @@ Robust Localization of Occluded Targets in Aerial Manipulation Via Range-Only Ma
 IEEE Robotics and Automation Letters (RA-L), presented in ICRA 2022
 
 [[paper]](https://ieeexplore.ieee.org/document/9691791)
-</div>
-</div>
+</div></div>
 
 # 📖 Educations
 - *2021 - present*, Ph.D. in Mechanical and Automation Engineering, **The Chinese University of Hong Kong**
