@@ -26,6 +26,7 @@ My research interests include computer vision in self-driving, SLAM and robotics
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Two papers on HD map construction are accepted in ECCV 2024! 
 - *2023.02*: &nbsp;🎉🎉 One paper on map sparsification is accepted in CVPR 2023!
+- *2022.02*: &nbsp;🎉🎉 Two papers are accepted in RA-L and will be presented in ICRA 2022!
   
 # 📝 Publications 
 For the full lists, please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GUbdeFsAAAAJ&view_op=list_works&sortby=pubdate) page
