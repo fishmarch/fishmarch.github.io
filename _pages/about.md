@@ -31,11 +31,17 @@ My research interests include computer vision in self-driving, SLAM and robotics
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="100%"></div>
+    <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="200"></div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [Robust Localization of Occluded Targets in Aerial Manipulation Via Range-Only Mapping](https://ieeexplore.ieee.org/document/9691791)
+
+Robust Localization of Occluded Targets in Aerial Manipulation Via Range-Only Mapping
+    
 **Xiaoyu Zhang**, Yin Zhang, Peidong Liu, and Shiyu Zhao
+
+IEEE Robotics and Automation Letters (RA-L), presented in ICRA 2022
+
+[[paper]](https://ieeexplore.ieee.org/document/9691791)
 </div>
 </div>
 
