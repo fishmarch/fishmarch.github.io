@@ -34,7 +34,7 @@ For the full lists, please refer to my [Google Scholar](https://scholar.google.c
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="100%"></div>
+    <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="200px"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
