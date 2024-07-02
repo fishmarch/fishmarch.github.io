@@ -24,10 +24,12 @@ My research interests include computer vision in self-driving, SLAM and robotics
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- *2024.07*: &nbsp;🎉🎉 Two papers on HD map construction are accepted in ECCV 2024! 
+- *2023.02*: &nbsp;🎉🎉 One paper on map sparsification is accepted in CVPR 2023!
+  
 # 📝 Publications 
+
+
 
 
 # 📖 Educations
@@ -39,7 +41,7 @@ My research interests include computer vision in self-driving, SLAM and robotics
   - Fields: SLAM, mobile robotics
 - *2013 - 2017*, B.S. in Mechanical Engineering, **Beihang University**
 
-# 💻 Internships
+# 💻 Work Experience
 - *2020 - 2021*, Westlake University
   - Research assistant, advised by Prof. [Shiyu Zhao](https://www.shiyuzhao.net/)
   - Fields: computer vision for UAV
