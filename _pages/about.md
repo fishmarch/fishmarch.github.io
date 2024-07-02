@@ -35,7 +35,7 @@ For the full lists, please refer to my [Google Scholar](https://scholar.google.c
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">ECCV 2024</div><img src='../images/eccv22_1' alt="sym" width="200px"></div>
+    <div><div class="badge">ECCV 2024</div><img src='../images/eccv24_1.png' alt="sym" width="200px"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -51,7 +51,7 @@ The European Conference on Computer Vision (ECCV) 2024
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">ECCV 2024</div><img src='../images/eccv22_2' alt="sym" width="200px"></div>
+    <div><div class="badge">ECCV 2024</div><img src='../images/eccv24_2.png' alt="sym" width="200px"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -67,7 +67,7 @@ The European Conference on Computer Vision (ECCV) 2024
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">CVPR 2023</div><img src='../images/cvpr23' alt="sym" width="200px"></div>
+    <div><div class="badge">CVPR 2023</div><img src='../images/cvpr23.png' alt="sym" width="200px"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
