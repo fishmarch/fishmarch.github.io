@@ -40,7 +40,7 @@ For the full lists, please refer to my [Google Scholar](https://scholar.google.c
   </div>
   <div class='paper-box-text' markdown="1">
 
-Enhancing Vectorized Map Perception with Historical Rasterized Map
+Enhancing Vectorized Map Perception with Historical Rasterized Maps
     
 **Xiaoyu Zhang<sup>\*</sup>**, Guangwei Liu<sup>*</sup>, Zihao Liu, Ningyi Xu, Yun-hui Liu, and Ji Zhao
 
