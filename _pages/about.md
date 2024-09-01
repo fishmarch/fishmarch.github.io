@@ -34,6 +34,20 @@ For the full lists, please refer to my [Google Scholar](https://scholar.google.c
 
 *Equal contribution
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge"> JFR </div><img src='../images/jfr24.png' alt="sym" width="200px"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+MS-SLAM: Memory‐Efficient Visual SLAM with Sliding Window Map Sparsification
+    
+**Xiaoyu Zhang**, Jinhu Dong, Yin Zhang, and Yun-hui Liu
+
+Journal of Field Robotics
+
+release soon...
+</div></div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -47,8 +61,7 @@ Enhancing Vectorized Map Perception with Historical Rasterized Maps
 
 The European Conference on Computer Vision (ECCV) 2024
 
-[[paper]]()
-[[code]]()
+release soon...
 </div></div>
 
 <div class='paper-box'>
