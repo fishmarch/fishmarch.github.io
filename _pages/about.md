@@ -46,7 +46,7 @@ MS-SLAM: Memory‐Efficient Visual SLAM with Sliding Window Map Sparsification
 
 Journal of Field Robotics
 
-release soon...
+[code](https://github.com/fishmarch/MS-SLAM)
 </div></div>
 
 <div class='paper-box'>
@@ -61,7 +61,8 @@ Enhancing Vectorized Map Perception with Historical Rasterized Maps
 
 The European Conference on Computer Vision (ECCV) 2024
 
-release soon...
+[[paper]](https://arxiv.org/abs/2409.00620)
+[[code]](https://github.com/HXMap/HRMapNet)
 </div></div>
 
 <div class='paper-box'>
