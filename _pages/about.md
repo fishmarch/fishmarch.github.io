@@ -44,9 +44,9 @@ MS-SLAM: Memory‐Efficient Visual SLAM with Sliding Window Map Sparsification
     
 **Xiaoyu Zhang**, Jinhu Dong, Yin Zhang, and Yun-hui Liu
 
-Journal of Field Robotics
+Journal of Field Robotics (JFR), 2024
 
-[code](https://github.com/fishmarch/MS-SLAM)
+[[code]](https://github.com/fishmarch/MS-SLAM)
 </div></div>
 
 <div class='paper-box'>
