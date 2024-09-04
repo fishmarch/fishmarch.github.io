@@ -46,6 +46,7 @@ MS-SLAM: Memory‐Efficient Visual SLAM with Sliding Window Map Sparsification
 
 Journal of Field Robotics (JFR), 2024
 
+[[paper]](https://onlinelibrary.wiley.com/doi/10.1002/rob.22431)
 [[code]](https://github.com/fishmarch/MS-SLAM)
 </div></div>
 
