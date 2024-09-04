@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-I am Xiaoyu Zhang (张啸宇), a third year PhD student from The Chinese University of Hong Kong (CUHK), under the supervision of Prof.[Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). I got my master and bachelor degree from Beihang University (BUAA), advised by Prof.[Wei Wang](http://www.me.buaa.edu.cn/info/1072/1897.htm). I am also fortunate to work with Dr.[Ji Zhao](https://sites.google.com/site/drjizhao/) and Prof.[Shiyu Zhao](https://www.shiyuzhao.net/).
+I am Xiaoyu Zhang (张啸宇), a fourth year PhD student from The Chinese University of Hong Kong (CUHK), under the supervision of Prof.[Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). I got my master and bachelor degree from Beihang University (BUAA), advised by Prof.[Wei Wang](http://www.me.buaa.edu.cn/info/1072/1897.htm). I am also fortunate to work with Dr.[Ji Zhao](https://sites.google.com/site/drjizhao/) and Prof.[Shiyu Zhao](https://www.shiyuzhao.net/).
 
 My research interests include computer vision in self-driving, SLAM and robotics.
 
