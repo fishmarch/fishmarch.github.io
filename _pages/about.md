@@ -18,21 +18,40 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-I am Xiaoyu Zhang (张啸宇), a fourth year PhD student from The Chinese University of Hong Kong (CUHK), under the supervision of Prof.[Yun-Hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). I got my master and bachelor degree from Beihang University (BUAA), advised by Prof.[Wei Wang](http://www.me.buaa.edu.cn/info/1072/1897.htm). I am also fortunate to work with Dr.[Ji Zhao](https://sites.google.com/site/drjizhao/) and Prof.[Shiyu Zhao](https://www.shiyuzhao.net/).
+I am Xiaoyu Zhang (张啸宇), a Research Scientist at XPENG Robotics, where we are working on scalable robotic foundation models. I received my Ph.D. from The Chinese University of Hong Kong (CUHK) under the supervision of Prof. [Yun-Hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). I earned my M.S. and B.S. degrees from Beihang University (BUAA), advised by Prof. [Wei Wang](http://www.me.buaa.edu.cn/info/1072/1897.htm). I have also had the privilege of collaborating with Dr. [Ji Zhao](https://sites.google.com/site/drjizhao/) and Prof. [Shiyu Zhao](https://www.shiyuzhao.net/).
 
-My research interests include computer vision in self-driving, SLAM and robotics.
+My research interests now center on vision-language-action (VLA) models and foundational models for robotics. Previously, I also worked on computer vision for autonomous driving, SLAM, and robotic perception.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 We release Fe<sub>0</sub>, exploring what embodied foundation model learns from cross-embodiment data. 
+- *2026.01*: &nbsp;🎉🎉 I join XPENG Robotics as a Research Scientist! 
+- *2026.01*: &nbsp;🎉🎉 I have passed my Ph.D. defense! 
 - *2024.08*: &nbsp;🎉🎉 One paper on memory-efficient SLAM is accepted by JFR! 
 - *2024.07*: &nbsp;🎉🎉 Two papers on HD map construction are accepted by ECCV 2024! 
 - *2023.02*: &nbsp;🎉🎉 One paper on map sparsification is accepted by CVPR 2023!
-- *2022.02*: &nbsp;🎉🎉 Two papers are accepted by RA-L and will be presented in ICRA 2022!
+<!-- - *2022.02*: &nbsp;🎉🎉 Two papers are accepted by RA-L and will be presented in ICRA 2022! -->
   
 # 📝 Recent Publications 
 For the full lists, please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GUbdeFsAAAAJ&view_op=list_works&sortby=pubdate) page
 
 *Equal contribution
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge"> XPENG Robotics Blog </div><img src='../images/fe0.png' alt="sym" width="200px"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+Inside Fe<sub>0</sub>: What Cross-Embodiment Data Teaches an Embodied Foundation Model
+    
+Yizhuo Li<sup>\*</sup>, **Xiaoyu Zhang<sup>\*</sup>**, Yuying Ge<sup>\*#</sup>, Teng Wang, Boyu Chen, Yi Chen, Bo Liu, Feng Qiu, Yuguo Gan, Hui Zhou, Yixiao Ge
+
+XPENG Robotics Blog
+
+[[blog]](https://xpeng-robotics.github.io/fe0/)
+</div></div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -98,7 +117,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
 [[code]](https://github.com/fishmarch/SLAM_Map_Compression)
 </div></div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">RA-L & ICRA 2022</div><img src='../images/ral.png' alt="sym" width="200px"></div>
   </div>
@@ -111,11 +130,11 @@ Robust Localization of Occluded Targets in Aerial Manipulation Via Range-Only Ma
 IEEE Robotics and Automation Letters (RA-L), presented in ICRA 2022
 
 [[paper]](https://ieeexplore.ieee.org/document/9691791)
-</div></div>
+</div></div> -->
 
 
 # 📖 Educations
-- *2021 - present*, Ph.D. in Mechanical and Automation Engineering, **The Chinese University of Hong Kong**
+- *2021 - 2026*, Ph.D. in Mechanical and Automation Engineering, **The Chinese University of Hong Kong**
   - T-Stone Robotics Institue, advised by Prof.[Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
   - Fields: 3D computer vision, self-driving  
 - *2017 - 2020*, M.Phil. in Mechanical Engineering, **Beihang University**
@@ -132,7 +151,7 @@ IEEE Robotics and Automation Letters (RA-L), presented in ICRA 2022
   
 # 🎖 Honors and Awards
 - *2021-2025*, CUHK Vice-Chancellor's PhD Scholarship
-- *2021-2025*, CUHK Postgraduate Scholarship
+<!-- - *2021-2025*, CUHK Postgraduate Scholarship -->
 - *2017*, First Prize in ``Challenge Cup" Capital College Student Curricular Academic Science and Technology Works Competition
 - *2017*, Beijing Outstanding Graduate
 - *2015*, National Scholarship

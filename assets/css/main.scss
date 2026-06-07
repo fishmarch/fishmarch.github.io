@@ -63,6 +63,8 @@
     }
     
     .paper-box-text{
+        flex: 1;
+        min-width: 0;
         max-width: 600px;
         order: 1;
     }
@@ -78,7 +80,9 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 100%;
+            flex: 1;
+            min-width: 0;
+            max-width: calc(60% - 2em);
             order: 2;
         }
 
