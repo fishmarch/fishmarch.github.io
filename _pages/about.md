@@ -24,7 +24,7 @@ My research interests now center on vision-language-action (VLA) models and foun
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 We release Fe<sub>0</sub>, exploring what embodied foundation model learns from cross-embodiment data. 
+- *2026.05*: &nbsp;🎉🎉 We release [Fe<sub>0</sub>](https://xpeng-robotics.github.io/fe0/), exploring what embodied foundation model learns from cross-embodiment data.
 - *2026.01*: &nbsp;🎉🎉 I join XPENG Robotics as a Research Scientist! 
 - *2026.01*: &nbsp;🎉🎉 I have passed my Ph.D. defense! 
 - *2024.08*: &nbsp;🎉🎉 One paper on memory-efficient SLAM is accepted by JFR! 
@@ -46,9 +46,9 @@ For the full lists, please refer to my [Google Scholar](https://scholar.google.c
 
 Inside Fe<sub>0</sub>: What Cross-Embodiment Data Teaches an Embodied Foundation Model
     
-Yizhuo Li<sup>\*</sup>, **Xiaoyu Zhang<sup>\*</sup>**, Yuying Ge<sup>\*#</sup>, Teng Wang, Boyu Chen, Yi Chen, Bo Liu, Feng Qiu, Yuguo Gan, Hui Zhou, Yixiao Ge
+Yizhuo Li<sup>\*</sup>, **Xiaoyu Zhang<sup>\*</sup>**, Yuying Ge<sup>\*#</sup>, Teng Wang, Boyu Chen, Yi Chen,<br>Bo Liu, Feng Qiu, Yuguo Gan, Hui Zhou, Yixiao Ge
 
-XPENG Robotics Blog
+XPENG Robotics Blog, 2026
 
 [[blog]](https://xpeng-robotics.github.io/fe0/)
 </div></div>
